@@ -1,4 +1,5 @@
 # Telegram-Ping-Bot
-Telegram bot ping server and alert
+Telegram bot ping server and alert in chat
+Теллеграм бот для проверки доступности сервера и оповещения в чат
 
 Telegram @feedback_alex
