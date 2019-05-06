@@ -1,9 +1,9 @@
 import os
 import telebot
 
-hostname = "nl.proxyservers.online"
+hostname = "ip server or url"
 channel = '@pingserver'
-token = '657395823:AAEeNxZEgU473zEoT-5_-dk6n1OnZl3oRw0'
+token = '*************'
 
 response = os.system('ping ' + hostname)
 bot = telebot.TeleBot(token)
