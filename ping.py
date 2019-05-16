@@ -1,8 +1,8 @@
 import os
 import telebot
 
-hostname = "ip server or url"
-channel = '@pingserver'
+hostname = 'ip server or url'
+channel = '@************'
 token = '*************'
 
 response = os.system('ping ' + hostname)
